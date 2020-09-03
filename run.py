@@ -47,6 +47,10 @@ def GetChinaData():
     return data
 
 def GetWorldData():
+    """
+    绘制世界地图！
+    :return:
+    """
     # 1.目标网站
     url = 'https://api.inews.qq.com/newsqa/v1/automation/foreign/country/ranklist'
     # 2.请求资源
