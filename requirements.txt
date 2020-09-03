@@ -1,0 +1,7 @@
+pyecharts
+echarts‐countries‐pypkg
+
+requests
+pandas
+numpy
+jsonpath
